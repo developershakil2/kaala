@@ -1,0 +1,10 @@
+*{padding:0px; margin:0px ; box-sizing:border-box;}
+
+#contact{
+    background-image:url(./image/contact.png);
+    background-position:center;
+    background-repeat :no-repeat;
+    background-size:cover;
+    height:100vh;
+    width:100%;
+}
