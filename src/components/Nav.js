@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import {Link} from 'react-router-dom';
 import MenuIcon from '@mui/icons-material/Menu';
 import CancelIcon from '@mui/icons-material/Cancel';
+import HomeIcon from '@mui/icons-material/Home';
 const Nav = () =>{
 const close = "none";
 const open = "flex";
@@ -15,6 +16,10 @@ const op =()=>{
 const cl = ()=>{
     setOpenMenu(close);
 }
+
+
+
+
     return(
         <>
             <nav id='nav1'z>
@@ -34,10 +39,28 @@ const cl = ()=>{
 <li id="home_li2" className="home_li"><Link to="team">Product</Link></li>
 <li id="home_li3" className="home_li"><Link target='_blank' to="/">Vision</Link></li>
 <li id="home_li4" className="home_li"><Link to="team/contact">Contact</Link></li>
+<li id="home" > <Link to="./"><HomeIcon style={{color:'purple', fontSize:'60px'}}/></Link></li>
+
+
+
+
 </ul>
                          </ul>
                         
+                        
+
+<ul id="home_menu">
+<li id="home_li" className="home_li"><Link to="team/team2">Team</Link></li>
+<li id="home_li" className="home_li"><Link to="team">Product</Link></li>
+<li id="home_li" className="home_li"><a target='_blank' href="#">Vision</a></li>
+<li id="home_li" className="home_li"><Link target="_blank" to="team/contact">Contact</Link></li>
+</ul>
                    </div>
+               
+               
+               
+               
+               
                </div>
 
             </nav>

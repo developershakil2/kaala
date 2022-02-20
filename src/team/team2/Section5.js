@@ -24,11 +24,7 @@ const Sec5 = ()=>{
                                     <span id="wt"></span>
                                      <div className="third_text_wrapper">
                                     <p>
-                                        add text here add text here add text here add text here add text here 
-                                add text here add text here add text here add text here add text here 
-                                add text here add text here  add text here add text here add text here 
-                            add text xz add text hereadd text here  
-
+                                        
                    </p>
                         </div>
                 </div>

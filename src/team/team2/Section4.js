@@ -15,11 +15,8 @@ const Sec4 = () =>{
                              <h3 style={{position:'relative'}}>Team Values</h3>
                              <span id="wt2"></span>
                             <div className="texi_content">
-                            <p className="text-center">add text here add text here 
-add text here add text here 
-add text here add text here 
-add text here add text here 
-
+                            <p className="text-center">
+                            Being Human A Philosophy of Being Human Reflections of a Student Nurse The main purpose of this paper is to present the philosophy of man, that he is a social being with relation and association to nursing practice. This paper seeks to prove that man is, by nature, a society-inclined being. This paper will discuss points on what makes man a social being. It will also present
                            </p> </div>
                         </div>
                   

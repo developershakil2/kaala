@@ -38,6 +38,13 @@ const cl = ()=>{
 </ul>
                          </ul>
                         
+                        
+<ul id="home_menu">
+<li id="home_li" className="home_li"><Link to="team/team2">Team</Link></li>
+<li id="home_li" className="home_li"><Link to="team">Product</Link></li>
+<li id="home_li" className="home_li"><a target='_blank' href="#">Vision</a></li>
+<li id="home_li" className="home_li"><Link target="_blank" to="team/contact">Contact</Link></li>
+</ul>
                    </div>
                </div>
 

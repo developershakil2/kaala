@@ -11,12 +11,10 @@ const Slider = ()=>{
 
 
               <div data-aos="fade-up-left" id="third_text" className="col-12 col-md-6 col-lg-lg-6 col-xl-6 third_text">
-                  <h3>Concept</h3>
+              <h3></h3>
                   <span id="wt"></span>
                   <div className="third_text_wrapper">
-                 <p>
-                 There are also different types of vision statements, as companies have unique core values. For example, a motivational vision statement will both motivate existing employees and also drive talent to the company. They’ll want to work at a place with a business vision that aligns with their 
-                 </p>
+                  <iframe width="560" height="315" src="https://www.youtube.com/embed/rrICPrgu7ow" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                       </div>
               </div>
         </>

@@ -12,13 +12,13 @@ const ThirdSec =()=>{
         <section id="third">
             <div id="third_container" className="container m-auto row">
                 <div id="third_text" className="col-12 col-md-6 col-lg-lg-6 col-xl-6 third_text">
-                    <h3>Services</h3>
+                    <h3 className="text-center">Services</h3>
                     <span id="wt"></span>
                     <div data-aos="fade-right" className="third_text_wrapper">
-                         <p> Implemantation Green and Innovative Concepts
+                         <p> Implementation Of Green and Innovative Concepts
                       International Trade Towords Envirnomental
                        Sustainability Initiatives
-                         Product And material end To end Traceability</p>
+                         Product And material end To end Traceability <span id="iphone">Products And material</span></p>
                         </div>
                 </div>
                 <div data-aos="fade-left" id="third_img" className="col-12 col-md-6 col-lg-lg-6 col-xl-6 third_img">

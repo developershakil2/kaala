@@ -11,14 +11,11 @@ const Sec2 = () =>{
         <section id="second_sec">
               <div data-aos="flip-up" className="container m-auto row">
                     <div className="col-12 col-md-8 col-lg-8 col-xl-8 m-auto">
-                             <h3 style={{position:'relative'}}>Team Ideaology</h3>
+                             <h3 style={{position:'relative'}}>Team </h3>
                              <span id="wt2"></span>
                             <div className="texi_content">
                             <p className="text-center">
-                            add text here add text here 
-add text here add text here 
-add text here add text here 
-add text here add text here 
+                           
 
                                  </p>
                               

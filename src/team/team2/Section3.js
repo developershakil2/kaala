@@ -15,10 +15,7 @@ const Sec3 =()=>{
                     <h3>Shivakumar Movva</h3>
                     <span id="wt"></span>
                     <div data-aos="fade-right" className="third_text_wrapper">
-                         <p>add text here add text here add text here add text here add text here 
-add text here add text here add text here add text here add text here 
-add text here add text here  add text here add text here add text here 
-add text xz add text hereadd text here  
+                         <p>  
 </p>
                         </div>
                 </div>
