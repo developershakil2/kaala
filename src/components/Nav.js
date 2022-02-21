@@ -39,9 +39,7 @@ const cl = ()=>{
 <li id="home_li2" className="home_li"><Link to="team">Product</Link></li>
 <li id="home_li3" className="home_li"><Link target='_blank' to="/">Vision</Link></li>
 <li id="home_li4" className="home_li"><Link to="team/contact">Contact</Link></li>
-<li id="home" > <Link to="./"><HomeIcon style={{color:'purple', fontSize:'60px'}}/></Link></li>
-
-
+<li id="home" > <button  onClick={cl}   style={{background:'none', outline:'none', border:'none'}}><HomeIcon style={{color:'purple', fontSize:'60px'}}/></button></li>
 
 
 </ul>

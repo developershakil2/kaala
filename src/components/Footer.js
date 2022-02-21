@@ -1,16 +1,16 @@
 import React from 'react';
-
+import TwitterIcon from '@mui/icons-material/Twitter';
+import {Link} from 'react-router-dom'
 const Footer = ()=>{
     return(
         <>
            <footer className="fot" style={{overflow:'hidden', paddingTop:'10px', paddingBottom:'60px'}}  id="footer1">
               <div className="container m-auto row">
                     <div id="footer_left" className="col-12 col-md-6 col-lg-6 col-lg-6 col-xl-6">
-                       <h3 style={{color:'purple'}}>interested to know more</h3>
+                       <h3 style={{color:'#dc07e0'}}>interested to know more</h3>
                        <p id="footer_links">
-                        <a href="#">Reach Us</a>
+                       <Link to="team/team2">Reach Us</Link>
                         <a href="#">Join Us</a>
-                        <a href="#">Like And Share</a>
                         <a href="#">Help</a>
                        </p>
 
@@ -18,8 +18,9 @@ const Footer = ()=>{
 
                         <a href="#" id="cola">Our Team {"&"} Family</a>
                     </div>
-                    <div style={{ height:"300px;"}} className="col-12 col-md-6 col-lg-6 col-lg-6 col-xl-6">
-                    <a style={{height:'300px',overflowY:'scroll'}} class="twitter-timeline" href="https://twitter.com/MovvaShivakumar?ref_src=twsrc%5Etfw">Loading</a>
+                    <div style={{ marginTop:"10px ", textAlign:'center'}} className="col-12 col-md-6 col-lg-6 col-lg-6 col-xl-6">
+                     
+                        <a href="https://twitter.com/MovvaShivakumar"><TwitterIcon style={{fontSize:'30px'}}/></a>
                         </div>
                   </div>
             </footer>

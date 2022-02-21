@@ -15,10 +15,7 @@ const SecondSec = () =>{
                              <span id="wt2"></span>
                             <div className="texi_content">
                             <p className="text-center">
-                            add text here add text here 
-add text here add text here 
-add text here add text here 
-add text here add text here 
+                           
 
                                 </p>
                               

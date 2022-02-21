@@ -15,10 +15,7 @@ const ThirdSec =()=>{
                     <h3>Product 1</h3>
                     <span id="wt"></span>
                     <div data-aos="fade-right" className="third_text_wrapper">
-                         <p> add text here add text here add text here add text here add text here 
-add text here add text here add text here add text here add text here 
-add text here add text here  add text here add text here add text here 
-add text add text hereadd text here  
+                         <p> 
 </p>
                         </div>
                 </div>

@@ -3,6 +3,8 @@ import {Link} from 'react-router-dom';
 import MenuIcon from '@mui/icons-material/Menu';
 import Img from '../images/logo2.png';
 import CancelIcon from '@mui/icons-material/Cancel';
+
+import HomeIcon from '@mui/icons-material/Home';
 const Nav = () =>{
 const close = "none";
 const open = "flex";
@@ -35,6 +37,11 @@ const cl = ()=>{
 <li id="home_li2" className="home_li"><Link to="./">Product</Link></li>
 <li id="home_li3" className="home_li"><Link target='_blank' to="/">Vision</Link></li>
 <li id="home_li4" className="home_li"><Link to="contact">Contact</Link></li>
+<li id="home" > <Link  to="/"><HomeIcon style={{color:'purple', fontSize:'60px'}}/></Link></li>
+
+
+
+
 </ul>
                          </ul>
                                     

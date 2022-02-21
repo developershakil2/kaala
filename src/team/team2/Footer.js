@@ -10,7 +10,6 @@ const Footer = ()=>{
                        <p id="footer_links">
                         <a href="#">Reach Us</a>
                         <a href="#">Join Us</a>
-                        <a href="#">Like And Share</a>
                         <a href="#">Help</a>
                        </p>
 

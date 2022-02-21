@@ -112,7 +112,7 @@
 @media screen and (max-width:768px){
 
     section#bg .container {
-        height: 50vh;
+        height: 100vh;
       }
       
     #bg3{background-position:center;    height: 80vh;}

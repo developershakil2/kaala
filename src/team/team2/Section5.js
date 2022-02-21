@@ -16,16 +16,12 @@ const Sec5 = ()=>{
                      <a  href="https://youtube.com">
                     <img src={Globe} alt="third_sec_image"/> </a>                     
                 </div>
-
-
-
                 <div data-aos="fade-up-left" id="third_text" className="col-12 col-md-6 col-lg-lg-6 col-xl-6 third_text">
-                            <h3>Swapnil Kuamar</h3>
+                           <a style={{textDecoration:'none'}} href="https://no.linkedin.com/in/swapnil-kumar-01a7071a4"> <h3>Swapnil Kumar</h3></a>
                                     <span id="wt"></span>
                                      <div className="third_text_wrapper">
                                     <p>
-                                        
-                   </p>
+                                   </p>
                         </div>
                 </div>
              

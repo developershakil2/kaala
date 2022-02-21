@@ -16,7 +16,7 @@ const Home = () =>{
              <div className="container m-auto row ">
                   <div style={{display:'grid', placeItems:'center',height: "90vh"}} id="home_right" className="col-12 col-md-6 col-lg-6 col-xl-6 ">
 
-                    <p style={{color:'purple'}}>The Great Shift "Serving Curiosity" For a Sustainable and Conscious Planet</p>
+                    <p >The Great Shift "Serving Curiosity" For a Sustainable and Conscious Planet</p>
 
 
                       {/* <p>We Empower <a href="#">Conscious</a> Thinking</p> */}

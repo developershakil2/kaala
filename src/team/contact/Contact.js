@@ -1,14 +1,15 @@
 import React from 'react';
+import {Link} from 'react-router-dom'
 import './style.css';
 
 const Contact =()=>{
     return(
         <>
-     <a href='https://no.linkedin.com/in/shivakumarmovva1979'>
+     <Link to='/'>
      <section id='contact'>
             
             </section>
-     </a>
+     </Link>
            
         </>
     )
