@@ -1,0 +1,1 @@
+<h2>add whitelist NFT</h2>

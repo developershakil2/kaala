@@ -1,0 +1,1 @@
+<h2>Manage WhiteList NFTs</h2>
